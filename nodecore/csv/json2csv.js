@@ -1,3 +1,4 @@
+// if you dont understand those modules , just download via npm : npm install iconv-lite fs-extra json2csv
 const iconv = require("iconv-lite");
 const { Parser } = require("json2csv");
 const json2csv = require("json2csv");
